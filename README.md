@@ -24,5 +24,6 @@ flutter run
 ```
 
 ## Screenshot
-![Profil](screenshots/profil.png)
-![List](screenshots/list.png)
+<img width="298" height="374" alt="Profil" src="https://github.com/user-attachments/assets/3cb0fda8-c33b-4d68-bff6-027b087abdfe" />
+<img width="298" height="374" alt="list" src="https://github.com/user-attachments/assets/5b85e094-692c-4584-80c3-3f177a8ca4a7" />
+
